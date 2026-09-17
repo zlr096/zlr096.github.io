@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Demo site",
 
 	// 站点 URL
-	site_url: "https://zh096.github.io",
+	site_url: "https://zlr096.github.io",
 
 	// 站点描述
 	description:

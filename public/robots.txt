@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zh096.github.io/sitemap-index.xml
+Sitemap: https://zlr096.github.io/sitemap-index.xml
